@@ -1,0 +1,42 @@
+.fondo_verde {
+    background: #28A745 !important;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.conteiner {
+    width: 80% !important;
+    margin: 0px auto;
+}
+
+.color-precio-final { 
+    color: #28A745;
+    font-size: 20px;
+}
+
+.descripcion-producto {
+    height: 10px;
+   
+}
+
+/* footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}    */
+
+.formulario-correo {
+    background-color: #28A745;
+    height: 241px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-label {
+    padding-top: 27px;
+    font-size: x-large;
+    
+    }
